@@ -8,7 +8,7 @@
 
 ---
 
-**Results-driven Computer Science and Engineering student at North South University specializing in systems programming, scalable full-stack architectures, and wireless cybersecurity.**
+**Results-driven Computer Science and Engineering graduate from North South University specializing in systems programming, scalable full-stack architectures, and wireless cybersecurity.**
 
 - 🔭 I’m currently working on **[BitDrop](https://github.com/Razib99/BitDrop)** (a Rust-based audiophile cloud streaming engine) and **[Specter CSI](https://github.com/Razib99/Specter_CSI_Project)** (Wi-Fi spatial presence detection).
 - ⚙️ I actively develop in **Rust, C/C++, Python, and Dart (Flutter)**.
@@ -37,4 +37,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Razib99&show_icons=true&theme=transparent&hide_border=true&title_color=2f80ed&icon_color=2f80ed&text_color=434d58" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razib99&layout=compact&theme=transparent&hide_border=true&title_color=2f80ed&text_color=434d58" alt="Top Languages" />
 </div>
