@@ -1,7 +1,7 @@
 # Md. Razib Ahsan
 **Systems & Software Engineer**
 
-[Website / Portfolio](https://razib99.github.io)  •  [LinkedIn](https://linkedin.com/in/razib-ahsan-090599)  •  rajibccz99.ra@gmail.com
+[Website / Portfolio](https://razib99.github.io)  •  [LinkedIn](https://linkedin.com/in/razibahsan99)  •  rajibccz99.ra@gmail.com
 
 ---
 
